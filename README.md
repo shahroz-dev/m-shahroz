@@ -47,7 +47,7 @@
 
 <br/>
 
-<a href="https://github.com/HarisKhan137">
+<a href="https://github.com/mhariskh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhariskh&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhariskh&theme=buefy&layout=compact" />
 </a>
@@ -61,4 +61,4 @@
 <a href="mailto:mharis.kh@outlook.com"><img src ="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 </p>
 
-⭐️ From [HarisKhan137](https://github.com/HarisKhan137)
+⭐️ From [mhariskh](https://github.com/mhariskh)
