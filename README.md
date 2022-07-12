@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Muhammad Haris Khan.</h2>
+<h2> Hey there! I'm Muhammad Shariq.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -48,8 +48,8 @@
 <br/>
 
 <a href="https://github.com/mhariskh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhariskh&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhariskh&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-shariq&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shariq&theme=buefy&layout=compact" />
 </a>
 
 <br/>
