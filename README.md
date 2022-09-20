@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and always craving for knowledge.
-- 🎓 &nbsp; Studied Masters in Electrical Engineering (Optimization and Machine Learning) at National University of Sciences and Technology (NUST).
-- 💼 &nbsp; Worked as an Algorithm Developer at Project Vision, PAF.
+- 🎓 &nbsp; Studied Masters in Electrical Engineering (Optimization and Machine Learning) at NUST.
+- 💼 &nbsp; Working as an Algorithm Developer at Project Vision, PAF.
 - 💼 &nbsp; Worked as Research Assistant at Adaptive Signal Processing Lab, NUST.
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning, Deep Learning and MLOps.
 
@@ -16,19 +16,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-
-
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
