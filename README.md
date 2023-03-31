@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and always craving for knowledge.
 - 🎓 &nbsp; Studied Masters in Electrical Engineering (Optimization and Machine Learning) at NUST.
-- 💼 &nbsp; Working as an Algorithm Developer at Project Vision, PAF.
+- 💼 &nbsp; Working as an Algorithm Developer at Project Vision, NASTP.
 - 💼 &nbsp; Worked as Research Assistant at Adaptive Signal Processing Lab, NUST.
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning, Deep Learning and MLOps.
 
