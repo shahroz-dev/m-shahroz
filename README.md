@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studied Masters in Electrical Engineering (Optimization and Machine Learning) at NUST.
 - 💼 &nbsp; Working as an Algorithm Developer at Project Vision, NASTP.
 - 💼 &nbsp; Worked as Research Assistant at Adaptive Signal Processing Lab, NUST.
-- 🌱 &nbsp; Learning more about Data Science, Machine Learning, Deep Learning and MLOps.
+- 🌱 &nbsp; Learning more about Data Science, Machine Learning, Deep Learning, Computer Vision and MLOps.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
